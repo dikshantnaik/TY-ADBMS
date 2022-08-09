@@ -7,10 +7,16 @@
 - The Query was Automaticaly Generated using PhpMyAdmin
   You can do it follow below Steps
 
+## Resource
+
+- My Databased used [jsp-project](https://github.com/dikshantnaik/TY-ADBMS/blob/main/jsp-project.sql)
+  You can Import This to your PhpmyAdmin and see it working
+- My Code where i Called all Funtions and procedure using Java : [utils.java](https://github.com/dikshantnaik/TY-ADBMS/blob/main/util.java)
+
 ### How to use PhpMyAdmin to Generate Procedure and Funtions
 
 - Open PhpMyAdmin(Not gonno say how)
-- At Right-hand side Selct your Database For eg."jsp-project"
+- At Right-hand side Selct your Database For eg."[jsp-project](https://github.com/dikshantnaik/TY-ADBMS/blob/main/jsp-project.sql)"
 - In the Upper-Right Corner You'll see <i>"Routines"</i> Tab <br> <i>\*After you Select a DataBase </i>
 
   ![Image 2022-08-09 at 8 45 30 PM](https://user-images.githubusercontent.com/45972990/183688570-863c7f4b-538f-4366-9ff5-519bffcaf133.jpeg)
