@@ -19,14 +19,15 @@
 - At Right-hand side Selct your Database For eg."[jsp-project](https://github.com/dikshantnaik/TY-ADBMS/blob/main/jsp-project.sql)"
 - In the Upper-Right Corner You'll see <i>"Routines"</i> Tab <br> <i>\*After you Select a DataBase </i>
 
-  ![Image 2022-08-09 at 8 45 30 PM](https://user-images.githubusercontent.com/45972990/183688570-863c7f4b-538f-4366-9ff5-519bffcaf133.jpeg)
+  ![WhatsApp Image 2022-08-10 at 3 56 28 PM](https://user-images.githubusercontent.com/45972990/183879407-162033c5-9cba-46dc-aaf8-230ac5b4bddb.jpeg)
+
 
 - After That Just Click <i> 'Create new Routine' </i> at Upper Right Corner a Pop screen will appear
 - Enter Procedure/Funtion name. Select type if Funtion or not . Add required Parameters
 - Write your main Logic in Defination tab and Done ..Just Click GO
 
 Sample ScreenShot Attached
-![image](https://user-images.githubusercontent.com/45972990/183708150-d762403c-8388-485c-8213-6d545800ab93.png)
+![image](https://user-images.githubusercontent.com/45972990/183879689-7949f48e-2273-4206-b641-c3befcbd6bb5.png)
 
 # Mysql Procedures and Funtion Query used in My Project
 
